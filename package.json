@@ -1,0 +1,8 @@
+{
+  "name": "webpack-hot-reload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/larrylizhao/webpack-hot-reload",
+  "author": "liz <larry.li@dowjoes.com>",
+  "license": "MIT"
+}
