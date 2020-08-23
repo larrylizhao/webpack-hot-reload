@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/larrylizhao/webpack-hot-reload",
   "author": "liz <larry.li@dowjoes.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.44.1",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-hot-middleware": "^2.25.0"
+  }
 }
